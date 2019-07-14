@@ -1,0 +1,58 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Berlin,52.516667,13.4,Germany,DE,Berlin,primary,3406000,3094014
+Stuttgart,48.782343,9.180819,Germany,DE,Baden-Württemberg,admin,2944700,606588
+Frankfurt,50.11552,8.684167,Germany,DE,Hesse,minor,2895000,679664
+Mannheim,49.496706,8.479547,Germany,DE,Baden-Württemberg,minor,2362000,313174
+Hamburg,53.575323,10.01534,Germany,DE,Hamburg,admin,1757000,1739117
+Essen,51.45657,7.012282,Germany,DE,North Rhine-Westphalia,minor,1742135,573468
+Duisburg,51.432469,6.765161,Germany,DE,North Rhine-Westphalia,minor,1276757,488005
+Munich,48.15,11.583333,Germany,DE,Bavaria,admin,1275000,1260391
+Düsseldorf,51.228304,6.793849,Germany,DE,North Rhine-Westphalia,admin,1220000,592393
+Cologne,50.933333,6.95,Germany,DE,North Rhine-Westphalia,,1004000,963395
+Wuppertal,51.270268,7.167553,Germany,DE,North Rhine-Westphalia,minor,776525,349470
+Saarbrücken,49.235396,6.981646,Germany,DE,Saarland,admin,770001,175741
+Marienberg,49.486021,11.086156,Germany,DE,Bavaria,,737304,499237
+Bremen,53.073789,8.826754,Germany,DE,Bremen,admin,724909,546501
+Hannover,52.38497,9.737141,Germany,DE,Lower Saxony,admin,722490,515140
+Bonn,50.73438,7.095485,Germany,DE,North Rhine-Westphalia,minor,680543,313125
+Dresden,51.048562,13.745794,Germany,DE,Saxony,admin,617515,486854
+Wiesbaden,50.082582,8.249322,Germany,DE,Hesse,admin,617126,272432
+Dortmund,51.514942,7.465997,Germany,DE,North Rhine-Westphalia,minor,588462,588462
+Leipzig,51.34419,12.386504,Germany,DE,Saxony,minor,542529,504971
+Heidelberg,49.404123,8.683733,Germany,DE,Baden-Württemberg,minor,426590,143345
+Karlsruhe,49.009365,8.40444,Germany,DE,Baden-Württemberg,minor,377487,283799
+Augsburg,48.371538,10.898514,Germany,DE,Bavaria,minor,358989,259196
+Bielefeld,52.028332,8.542002,Germany,DE,North Rhine-Westphalia,minor,331906,291573
+Koblenz,50.353573,7.578835,Germany,DE,Rhineland-Palatinate,minor,312633,107319
+Altchemnitz,50.811536,12.912827,Germany,DE,Saxony,,302643,247220
+Kassel,51.313782,9.484645,Germany,DE,Hesse,minor,289924,194501
+Münster,51.961114,7.624239,Germany,DE,North Rhine-Westphalia,minor,270184,237041
+Kiel,54.312145,10.135526,Germany,DE,Schleswig-Holstein,admin,269427,232758
+Freiburg,47.996861,7.84973,Germany,DE,Baden-Württemberg,minor,254889,215966
+Braunschweig,52.265939,10.526726,Germany,DE,Lower Saxony,minor,244715,235054
+Fürth,49.48121,10.96762,Germany,DE,Bavaria,minor,237844,112025
+Lübeck,53.86687,10.688367,Germany,DE,Schleswig-Holstein,minor,235390,212207
+Osnabrück,52.272642,8.049799,Germany,DE,Lower Saxony,minor,231268,166462
+Magdeburg,52.127731,11.629163,Germany,DE,Saxony-Anhalt,admin,229826,224931
+Potsdam,52.402247,13.057122,Germany,DE,Brandenburg,admin,218095,145292
+Erfurt,50.978695,11.032831,Germany,DE,Thuringia,admin,203254,175476
+Rostock,54.086813,12.113453,Germany,DE,Mecklenburg-Western Pomerania,,203080,198293
+Mainz,49.984188,8.279096,Germany,DE,Rhineland-Palatinate,admin,184997,184997
+Ulm,48.397053,9.968956,Germany,DE,Baden-Württemberg,minor,172955,120451
+Würzburg,49.793912,9.951214,Germany,DE,Bavaria,minor,168561,133731
+Oldenburg,53.141178,8.214674,Germany,DE,Lower Saxony,minor,167458,159218
+Regensburg,49.034512,12.119234,Germany,DE,Bavaria,minor,164359,129151
+Ingolstadt,48.765081,11.423725,Germany,DE,Bavaria,minor,163325,120658
+Göttingen,51.539334,9.934057,Germany,DE,Lower Saxony,minor,139419,122149
+Bremerhaven,53.550209,8.576735,Germany,DE,Bremen,minor,137751,117446
+Cottbus,51.757691,14.328875,Germany,DE,Brandenburg,minor,105067,84754
+Jena,50.928782,11.589901,Germany,DE,Thuringia,minor,104712,95171
+Gera,50.875507,12.083296,Germany,DE,Thuringia,minor,104659,103055
+Flensburg,54.78431,9.439611,Germany,DE,Schleswig-Holstein,minor,97930,85838
+Schwerin,53.628373,11.409462,Germany,DE,Mecklenburg-Western Pomerania,admin,96641,96641
+Rosenheim,47.857316,12.119255,Germany,DE,Bavaria,minor,92809,60167
+Gießen,50.58727,8.675536,Germany,DE,Hesse,minor,82358,74411
+Stralsund,54.315823,13.088588,Germany,DE,Mecklenburg-Western Pomerania,minor,61368,58976
+Coburg,50.259366,10.963843,Germany,DE,Bavaria,,61054,41901
+Hofeck,50.330895,11.892585,Germany,DE,Bavaria,,56153,49239
+Emden,53.367454,7.207776,Germany,DE,Lower Saxony,minor,51526,48046
