@@ -10,6 +10,5 @@ https://de.statista.com/statistik/daten/studie/200790/umfrage/gefaehrlichste-sta
 
 To do:
 
-1. find a better way to explain/ show the numbers (legend, subtitles?)
-2. alternative to MapBox which works entirely offline and 3rd-party independent (Chloropleth maps?)
-3. merge data sources into one file, for convenience
+1. alternative to MapBox which works entirely offline and 3rd-party independent (Chloropleth maps? Bokeh?)
+2. Data cleaning bc of umlauts
